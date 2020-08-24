@@ -13,9 +13,10 @@ If you want to start this bot with all functions you should:
 1) in bot.py set TOKEN (@botfather)
 2) in content.py set ip address goip SMS-server database (dbhost, dbpass) for db 'goip'
 3) in content.py set ip address goip SIM-base ('our_gsm_gateway_ip')
-4) add in main.db (sqlite3) in table whitelist:
+4) add in main.db (sqlite3) in table whitelist *
+5) python3 main.py <br/>
 
+* - <br/>
 id phonenumber firstname lastname <br/>
 for example <br/>
 3 +71234567890 User Name  <br/>
-5) python3 main.py <br/>
