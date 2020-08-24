@@ -9,6 +9,7 @@ Telegram Bot с авторизацией по whitelist (используя sqli
 ___
 
 If you want to start this bot with all functions you should:
+0) pip install -r req.txt
 1) in bot.py set TOKEN (@botfather)
 2) in content.py set ip address goip SMS-server database (dbhost, dbpass) for db 'goip'
 3) in content.py set ip address goip SIM-base ('our_gsm_gateway_ip')
