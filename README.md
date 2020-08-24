@@ -5,7 +5,7 @@ Telegram Bot с авторизацией по whitelist (используя sqli
 
 На данный момент не используется. 
 Для запуска следовать инструкции ниже.
-__
+___
 
 If you want to start this bot with all functions you should:
 1) in bot.py set TOKEN (@botfather)
