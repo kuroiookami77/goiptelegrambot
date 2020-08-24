@@ -5,7 +5,7 @@ Telegram Bot с авторизацией по whitelist (используя sqli
 
 На данный момент не используется. 
 Для запуска следовать инструкции ниже.
-![alt text](https://freeimage.host/i/dSxQDu)
+![alt text](https://iili.io/dSxQDu.jpg)
 ___
 
 If you want to start this bot with all functions you should:
