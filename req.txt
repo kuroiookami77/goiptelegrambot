@@ -1,0 +1,6 @@
+xlwt
+pandas
+pytelegrambotapi
+pymysql
+peewee
+paramiko
