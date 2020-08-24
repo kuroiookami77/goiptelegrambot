@@ -14,6 +14,6 @@ If you want to start this bot with all functions you should:
 3) in content.py set ip address goip SIM-base ('our_gsm_gateway_ip')
 4) add in main.db (sqlite3) in table whitelist:
 
->id phonenumber firstname lastname
->for example
->3 +71234567890 User Name
+id phonenumber firstname lastname <br/>
+for example <br/>
+3 +71234567890 User Name 
