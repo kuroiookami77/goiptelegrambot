@@ -16,7 +16,7 @@ If you want to start this bot with all functions you should:
 4) add in main.db (sqlite3) in table whitelist *
 5) python3 main.py <br/>
 
-* - <br/>
+* <br/>
 id phonenumber firstname lastname <br/>
 for example <br/>
 3 +71234567890 User Name  <br/>
